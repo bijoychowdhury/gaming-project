@@ -6,24 +6,67 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
   }
-
+* {
+  margin: 0%;
+  border: border-box;
+}
   .head-frame{
-        width: 1920px;
-        height: 130px;
+        width: 1420px;
+        height: 120px;
         flex-shrink: 0;
-        background: #FFF;
+        background: #f7eaea;
         box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
         display: flex;
   }
 
+  .frame-img{
+    width: 86.041px;
+  height: 37px;
+  flex-shrink: 0;
+  margin-left: 170px;
+  margin-top: 40px;
+  }
+  .frame-name{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    margin-left: 20px;
+    margin-top: 32px;
+
+  }
+.fm-a{
+  color: rgb(255, 72, 133);
+}
+
+
   .icon-frame{
     display: flex;
+    color: #3C354F;
+   text-align: center;
+   font-size: 18px;
+   font-weight: 500;
+   margin-left: 500px;
+   margin-top: 50px;
+
     
   }
   .icon-info{
     display: flex;
   }
+.i-c{
+  margin-left: 23px
+}
 
   .icon-main{
     display: flex;
+    width: 150px;
+    height: 56px;
+    border-radius: 8px;
+  background: rgba(11, 2, 35, 0.10);
+  text-align: center;
+  
+
   }
+
+  /* navber finised here */
+  
