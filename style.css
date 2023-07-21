@@ -1,0 +1,29 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Open+Sans:ital,wght@1,800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+  *{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+  }
+
+  .head-frame{
+        width: 1920px;
+        height: 130px;
+        flex-shrink: 0;
+        background: #FFF;
+        box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+        display: flex;
+  }
+
+  .icon-frame{
+    display: flex;
+    
+  }
+  .icon-info{
+    display: flex;
+  }
+
+  .icon-main{
+    display: flex;
+  }
