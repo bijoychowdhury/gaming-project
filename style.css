@@ -248,3 +248,31 @@ position: relative;
 bottom: 250px;
 left: 50px;
 }
+/* third section end here */
+.icon-head{
+  display: flex;
+  margin-top: 30px;
+  margin-left: 200px;
+}
+.icon-main{
+  width: 150px;
+height: 40px;
+flex-shrink: 0;
+border-radius: 20px;
+background: #f3f0f0;
+color: #0B0223;
+font-size: 18px;
+font-weight: 400;
+text-align: center;
+gap: 8px;
+padding: 7px;
+margin-left: 22px;
+justify-content: space-around;
+justify-items: center;
+}
+.icon-head-two{
+  display: flex;
+  margin-top: 30px;
+  margin-left: 280px;
+  margin-bottom: 50px;
+}
